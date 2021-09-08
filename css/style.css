@@ -14,3 +14,7 @@ h1{
 ul{
     list-style: none;
 }
+
+#my_deck_illustration img {
+    width: 600px;
+}
