@@ -1,0 +1,16 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.my_section_card{
+    background-color: azure;
+}
+
+ul{
+    list-style: none;
+}
